@@ -1,4 +1,4 @@
-![alt text](https://camo.githubusercontent.com/3de407029531b1bcff394070e6d820d3f883a8c5/68747470733a2f2f7472617669732d63692e6f72672f6e6a736669656c642f6d79736974652e7376673f6272616e63683d6d6173746572 "Logo Title Text 1")
+![alt text](https://api.travis-ci.org/FACG2/world-weather-week5.svg?branch=master "Logo Title Text 1")
 
 ### What Continuous Integration
 Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
